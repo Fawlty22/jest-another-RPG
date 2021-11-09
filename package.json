@@ -1,0 +1,22 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "This is the module proect for module 10.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fawlty22/jest-another-RPG.git"
+  },
+  "author": "Matthew Keys",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fawlty22/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/Fawlty22/jest-another-RPG#readme",
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
+}
